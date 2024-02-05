@@ -1,5 +1,3 @@
-import React from "react";
-
 import image from "../../assets/khizar.png";
 import { porfolios } from "./constant";
 import Profile from "../Profile";
