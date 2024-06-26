@@ -10,9 +10,9 @@ export const porfolios = [
     text: "Linkedin",
     url: "https://www.linkedin.com/in/khizar-kamal-269b67170/",
   },
-  {
-    id: "instagram",
-    text: "Instagram",
-    url: "/",
-  },
+  // {
+  //   id: "gitlab",
+  //   text: "Gitlab",
+  //   url: "https://gitlab.com/khizarkamal",
+  // },
 ];
